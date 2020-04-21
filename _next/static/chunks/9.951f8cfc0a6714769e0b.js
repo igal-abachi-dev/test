@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{LJot:function(n,t,e){"use strict";e.r(t),e.d(t,"default",(function(){return r}));var o=e("q1tI"),u=e.n(o).a.createElement;function r(){return u("p",null,"Hello!")}}}]);
